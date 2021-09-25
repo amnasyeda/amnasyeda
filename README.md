@@ -1,6 +1,6 @@
 # Introduction
 
-### Hi, I'm Amna 
+### Hi, I'm Amna 👩🏻‍💻
 
 - ⌨️ I am a Full Stack Web Development student and earned my web development certificate from the University of Toronto School of Continuing Studies. 
 
