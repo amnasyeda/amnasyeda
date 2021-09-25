@@ -4,7 +4,7 @@
 
 - ⌨️ I am a Full Stack Web Development student and earned my web development certificate from the University of Toronto School of Continuing Studies. 
 
-- 🧬 Before pursuing web development, I completed my Bachelors degree at the University of Toronto in Human Biology and graduated with Honors while completing a double major. 
+- 🧬 Before pursuing web development, I completed my Bachelor's degree at the University of Toronto in Human Biology and graduated with Honors while completing a double major. 
 
 - 🔬 I love working in a lab setting and I love science and technology.
 
