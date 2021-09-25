@@ -6,7 +6,7 @@
 
 - 🧬 Before pursuing web development, I completed my Bachelors degree at the University of Toronto in Human Biology and graduated with Honors while completing a double major. 
 
-- 🔬 I love working in a lab setting and I love science and technology 
+- 🔬 I love working in a lab setting and I love science and technology.
 
 - 💞️ Feel free to contact me!
 
