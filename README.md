@@ -35,3 +35,13 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"> 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"> 
 </p>
+
+
+## 📈 Stats
+<p align="left">
+<a href="https://github.com/amnasyeda">
+  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amnasyeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnasyeda&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
